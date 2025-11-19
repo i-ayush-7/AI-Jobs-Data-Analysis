@@ -3,6 +3,8 @@
 ### **Project Overview**
 The analysis investigates the potential impact of Artificial Intelligence on the job market by 2030. Using a dataset of 3,000 entries, the project explores hiring trends, salary distributions, experience levels, and the exposure of various roles to AI technologies.
 
+![LOGO](https://github.com/i-ayush-7/AI-Jobs-Data-Analysis/blob/main/Image.jpg)
+
 ### **Key Data & Structure**
 * **Dataset:** `Ai jobs dataset.csv` containing 3,000 rows and 18 columns.
 * **Key Columns:** `Job_Title`, `Salary`, `Years_Experience`, `Education_Level`, `AI_Exposure_Index`, `Tech_Growth_Factor`, `Automation_Probability_2030`, `Risk_Category`, and various `Skill` columns.
@@ -43,3 +45,5 @@ The notebook generates several bar charts to visually represent:
 
 ### **Conclusion**
 This notebook serves as a foundational exploratory analysis to understand how different job roles—both blue-collar and white-collar—might compare in terms of compensation, experience requirements, and vulnerability to AI automation in the near future.
+
+## Project By: Ayush Shukla
